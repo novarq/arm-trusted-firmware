@@ -91,7 +91,7 @@ const platforms = [
 	"ddr_diag":	ddr_diag_regs_lan969x,
 	"ddr_regs":	ddr_regs_lan969x,
 	"ddr_speed":	lan969x_speeds,
-	"bl2u_compat":	["lan969x_a0", "lan969x_svb"],
+	"bl2u_compat":	["lan969x_a0", "lan969x_svb", "novarq_tactical_1000_v3"],
     },
 ];
 
